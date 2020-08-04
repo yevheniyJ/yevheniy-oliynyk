@@ -20,6 +20,7 @@ You can find me on [![LinkedIn][1.1]][1]
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-151515?logo=MongoDB&cacheSeconds=10000&logoColor=47A248)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-151515?logo=Elasticsearch&cacheSeconds=10000&logoColor=005571)
+![Redis](https://img.shields.io/badge/-Redis-151515?logo=Redis&cacheSeconds=10000&logoColor=DC382D)
 ![MySQL](https://img.shields.io/badge/-MySQL-151515?logo=MySQL&cacheSeconds=10000&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-151515?logo=PostgreSQL&cacheSeconds=10000&logoColor=336791)
 
