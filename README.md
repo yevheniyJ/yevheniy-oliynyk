@@ -30,7 +30,7 @@ You can find me on [![LinkedIn][1.1]][1]
 #### :chart_with_upwards_trend: GitHub Stats
 
 <a href="https://github.com/yevheniyJ/yevheniy-oliynyk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevheniyJ&hide=html,freemarker&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevheniyJ&hide=html,freemarker,css&theme=dark" />
 </a>
 <a href="https://github.com/yevheniyJ/yevheniy-oliynyk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yevheniyJ&show_icons=true&line_height=27&theme=dark" alt="Yevheniy's GitHub Stats" />
