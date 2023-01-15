@@ -26,21 +26,3 @@ You can find me on [![LinkedIn][1.1]][1]
 
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-151515?logo=Intellij%20IDEA&cacheSeconds=10000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-151515?logo=Visual%20Studio%20Code&cacheSeconds=10000&logoColor=007ACC)
-
-#### :chart_with_upwards_trend: GitHub Stats
-
-<a href="https://github.com/yevheniyJ/yevheniy-oliynyk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevheniyJ&hide=html,freemarker,css,tsql&theme=dark" />
-</a>
-<a href="https://github.com/yevheniyJ/yevheniy-oliynyk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yevheniyJ&show_icons=true&line_height=27&theme=dark&count_private=true" alt="Yevheniy's GitHub Stats" />
-</a>
-
-<!-- icons without padding -->
-
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/yevheniy-oliynyk-971b4ba4/
