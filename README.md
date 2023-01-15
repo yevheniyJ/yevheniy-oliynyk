@@ -1,7 +1,6 @@
 ### Hi there!
 
-My name is Yevheniy Oliynyk and I am a Java/Node.js developer. Working with web/mobile/desktop applications.  
-You can find me on [![LinkedIn][1.1]][1]
+My name is Yevheniy Oliynyk and I am a Java/Node.js developer. Working with web/mobile/desktop applications.
 
 #### 🔧 Technologies & Tools
 
